@@ -1,0 +1,22 @@
+{
+  "name": "mern_setup",
+  "version": "1.0.0",
+  "description": " project demo of setting up a NodeJS and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashadykun/mern_setup.git"
+  },
+  "author": "Sasha Dykun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashadykun/mern_setup/issues"
+  },
+  "homepage": "https://github.com/sashadykun/mern_setup#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
